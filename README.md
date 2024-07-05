@@ -1,5 +1,5 @@
 ### Hey. What's up? 👋  
-Staff Dev @ Unity 👨‍💻
+Staff Dev @ Unity 👨‍💻  
 .NET Developer / Fan  
 Performance enthusiast   
 
