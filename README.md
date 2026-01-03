@@ -1,5 +1,4 @@
 ### Hey. What's up? 👋  
-Dev @ Asana 👨‍💻  
-Performance enthusiast   
+Software Engineer @ Asana 👨‍💻 
 
 
